@@ -1,7 +1,9 @@
 # Alfred-Workflow
 维护 Alfred 上 个人开发 和 使用的 Workflow
 
-> rime 个人词库维护更新
+
+## rime词库维护
+> 使用场景: rime 个人词库维护更新 自造词,常用词
 > 插件使用要求:
 >   1. 软件(rime-Squirrel, Alfred)
 >   2. $home/Library/Rime内需要有 custom_phrase.txt文件夹 (一般导入过主流输入方案的 都会有这个文件,例如 雾凇拼音,万象拼音)
